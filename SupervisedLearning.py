@@ -2,7 +2,7 @@
 Author: Caryn Willis
 This program takes in a file with sequences on each line
 and trains parameters for an HMM for predicting CpG islands
-using Maximum Likelyhood Estimation.
+using Maximum Likelihood Estimation.
 
 """
 import sys
